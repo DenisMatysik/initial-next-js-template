@@ -30,7 +30,7 @@ export default function Home({socials}) {
 	return (
 		<>
 			<Head>
-				<title>'Some title' | Main</title>
+				<title>Some title | Main</title>
 				<meta
 					name="title"
 					content="Site content"
