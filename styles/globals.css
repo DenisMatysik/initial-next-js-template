@@ -1,0 +1,41 @@
+body {
+	font-weight: 400;
+}
+
+.content {
+	border: 5px solid white;
+	padding: 20px;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: black;
+	color: white;
+}
+
+nav {
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+nav a {
+	margin-right: 15px;
+	color: white;
+}
+
+footer {
+	text-align: center;
+	padding: 20px 0;
+	background-color: black;
+	color: white;
+}
+
+.not-found {
+	text-align: center;
+}
+
+.not-found a {
+	color: black;
+}
